@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- צבעי בסיס עדינים -->
+    <color name="primary">#FFB6C1</color>        <!-- ורוד בהיר עדין -->
+    <color name="primary_dark">#DB7093</color>   <!-- ורוד כהה יותר -->
+    <color name="accent">#FFF0F5</color>         <!-- ורוד-לבן עדין -->
+    
+    <!-- צבעי רקע -->
+    <color name="background">#FFFFFF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="surface">#FFF5F5</color>
+    
+    <!-- צבעי טקסט -->
+    <color name="text_primary">#442C2E</color>
+    <color name="text_secondary">#7B6769</color>
+    
+    <!-- צבעים לסימון ימים -->
+    <color name="period_color">#FFE4E1</color>          <!-- ורוד-אפרסק עדין -->
+    <color name="period_border">#FFB6C1</color>         <!-- ורוד בהיר -->
+    <color name="hefsek_tahara_color">#E6E6FA</color>   <!-- סגול עדין -->
+    <color name="hefsek_tahara_border">#D8BFD8</color>  <!-- סגול בהיר -->
+    <color name="seven_clean_color">#F0FFF0</color>     <!-- ירוק מנטה עדין -->
+    <color name="seven_clean_border">#98FB98</color>    <!-- ירוק בהיר -->
+    <color name="unclean_color">#FFF0F5</color>        <!-- ורוד-לבן -->
+    <color name="unclean_border">#FFB6C1</color>       <!-- ורוד בהיר -->
+</resources>

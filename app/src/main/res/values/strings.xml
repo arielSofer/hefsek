@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Jewish Period Tracker</string>
+    <string name="select_period_start_time">בחרי את שעת תחילת המחזור</string>
+    <string name="confirm_period_start">האם להגדיר את %1$s כתחילת המחזור?</string>
+    <string name="yes">כן</string>
+    <string name="no">לא</string>
+    <string name="period_started">המחזור התחיל</string>
+    <string name="next_period_prediction">המחזור הבא צפוי בסביבות %1$s</string>
+    <string name="potential_period_day">יום פוטנציאלי למחזור</string>
+    <string name="potential_period_message">זהו יום פוטנציאלי למחזור. האם את רוצה:\n1. לסמן תחילת מחזור\n2. לבצע בדיקה</string>
+    <string name="mark_period">סימון מחזור</string>
+    <string name="perform_check">בדיקה</string>
+    <string name="cancel">ביטול</string>
+</resources>
